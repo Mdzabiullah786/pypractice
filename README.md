@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Programming Practice
 
 A collection of beginner-friendly Python exercises and notes covering core language concepts. The repository is organized as individual practice files, so you can read a topic and run its examples independently.
@@ -95,3 +96,6 @@ This is a personal practice repository. Suggestions that improve explanations, c
 ## License
 
 No license is currently specified. Unless a license is added, the repository's contents are not explicitly licensed for reuse.
+=======
+PYTHON PRACTICE 
+>>>>>>> 71496659c121403def98ac809a33e372604e277e
