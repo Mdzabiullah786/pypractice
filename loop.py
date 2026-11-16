@@ -1,4 +1,4 @@
-'''# print prime number( print in same way )
+# print prime number( print in same way )
 n=int(input())
 Flag=True
 for i in range(2,n):
@@ -31,7 +31,7 @@ b = int(input("Enter the second number: "))
 for i in range(1, min(a, b) + 1):
     if a % i == 0 and b % i == 0:
       gcd = i
-print("GCD:", gcd)'''
+print("GCD:", gcd)
 
 
         

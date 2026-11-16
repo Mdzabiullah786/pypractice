@@ -28,7 +28,7 @@ print(sys.getsizeof(c))
 # we can say that for any no of digit in complex the memory size will remain same that is 32 bytes.
 # to calculate index letter by using index no. of that by seeing the value from index table.'''
 x=("hello python")
-print(x[8])
+print(x[8])# here we can clearly see while indexing same  char count as one time (V.V.I)
 print(x[4:9])
 print(x[:4])
 print(x[4:])
